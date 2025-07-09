@@ -4,7 +4,6 @@
 * ```yaml
   type: builtin:openapi
   props:
-    title: "Codeset API"
     models: true
   dependencies:
     spec:
