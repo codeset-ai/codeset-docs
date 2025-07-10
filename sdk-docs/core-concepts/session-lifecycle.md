@@ -1,4 +1,4 @@
-# The Session Lifecycle
+# Session Lifecycle
 
 A Session provides a complete, isolated environment for an AI agent to work on a task. Understanding its lifecycle is key to managing agent interactions effectively.
 
