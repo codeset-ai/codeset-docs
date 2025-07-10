@@ -1,5 +1,5 @@
 # Getting Started
-This guide will walk you through the essential workflow of using the `codeset-sdk` to interact with the Codeset API. You will learn how to create a session, execute commands within it, verify the outcome, and properly close the session.
+This guide will walk you through the essential workflow of using our SDK to interact with the Codeset API. You will learn how to create a session, execute commands within it, verify the outcome, and properly close the session.
 
 ## Prerequisites
 

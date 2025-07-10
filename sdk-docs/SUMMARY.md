@@ -4,12 +4,12 @@
 
 ## Getting Started
 
-* [Overview](getting-started/README.md)
+* [Installing our SDK](getting-started/README.md)
 
 ## Core Concepts
 
 * [Overview](core-concepts/README.md)
-* [The Session Lifecycle](core-concepts/session-lifecycle.md)
+* [Session Lifecycle](core-concepts/session-lifecycle.md)
 
 ## Tutorials
 
