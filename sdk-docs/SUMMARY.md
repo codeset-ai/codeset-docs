@@ -10,7 +10,11 @@
 
 * [Overview](core-concepts/README.md)
 * [Session Lifecycle](core-concepts/session-lifecycle.md)
-* [Supported Datasets](core-concepts/supported-datasets.md)
+
+## Supported Datasets
+
+* [Eval Datasets](supported-datasets/eval-datasets.md)
+* [Training Datasets](supported-datasets/training-datasets.md)
 
 ## Tutorials
 
