@@ -4,5 +4,5 @@ Evaluation datasets are used to benchmark and assess the performance of AI codin
 
 | Name | Type of Tasks | # Samples | # Repos | Language(s) | Availability |
 | --- | --- | --- | --- | --- | --- |
-| [GitBug-Java](https://github.com/gitbugactions/gitbug-java) | Bug-fixing | | | Java, Python | <span style="color:grey;">Planned</span> |
-| [SWE-bench](https://github.com/SWE-bench/SWE-bench) | Issue resolution | 2,294 | 12 | Python | <span style="color:grey;">Planned</span> |
+| [GitBug-Java](https://github.com/gitbugactions/gitbug-java) | Bug-fixing | 199 | 55 | Java, Python | <span style="color:grey;">Planned</span> |
+| [SWE-bench](https://github.com/SWE-bench/SWE-bench) | Bug-fixing, feature addition | 2,294 | 12 | Python | <span style="color:grey;">Planned</span> |
