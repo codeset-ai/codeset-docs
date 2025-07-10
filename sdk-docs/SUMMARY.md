@@ -1,6 +1,21 @@
 # Table of contents
 
-* [Codeset](README.md)
+* [Introduction](README.md)
+
+## Getting Started
+
+* [Overview](getting-started/README.md)
+
+## Core Concepts
+
+* [Overview](core-concepts/README.md)
+* [The Session Lifecycle](core-concepts/session-lifecycle.md)
+
+## Tutorials
+
+* [Overview](tutorials/README.md)
+
+## API Reference
 * ```yaml
   type: builtin:openapi
   props:
