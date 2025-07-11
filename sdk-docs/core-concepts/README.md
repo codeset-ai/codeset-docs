@@ -14,13 +14,14 @@ Each sample has a unique `sample_id` that you use to create a new session.
 
 ## Sessions
 
-A **Session** is a live, interactive, and sandboxed environment created from a specific sample. When you create a session, we spin up a secure container with the sample's codebase, ready for an agent to connect and start working.
+A **Session** is a live, interactive, and sandboxed environment created from a specific sample. When you create a session, we spin up a secure container with the sample's codebase and all required dependencies, ready for an agent to connect and start working.
 
 Key characteristics of a session:
 
 *   **Isolated:** Each session is completely isolated from others, ensuring that an agent's actions in one session do not affect any other.
 *   **Stateful:** A session maintains the state of the filesystem. Any changes an agent makes—creating, modifying, or deleting files—are preserved for the duration of the session.
 *   **Interactive:** Agents can execute shell commands within the session's environment, allowing them to explore the codebase, run tests, and apply changes.
+*   **Executable:** A session contains all required dependencies, including third-party libraries, build tools, SDKs, and runnable scripts (e.g., for executing tests).
 
 You interact with a session using its unique `session_id`.
 
