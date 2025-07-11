@@ -13,8 +13,8 @@
 
 ## Supported Datasets
 
-* [Eval Datasets](supported-datasets/eval-datasets.md)
-* [Training Datasets](supported-datasets/training-datasets.md)
+* [Training](supported-datasets/training-datasets.md)
+* [Evaluation](supported-datasets/eval-datasets.md)
 
 ## Tutorials
 

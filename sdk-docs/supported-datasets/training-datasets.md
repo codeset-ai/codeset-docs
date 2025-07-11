@@ -1,6 +1,6 @@
-# Training Datasets
+# Training
 
-Training datasets are used to train AI coding agents, providing them with a large corpus of code and associated tasks to learn from. These datasets help agents develop their understanding of programming languages, code structures, and problem-solving strategies.
+Training datasets are used to train agentic code models, providing them with a large corpus of environments each containing a problem statement, a repo state, and a verifier. Codeset provides access to both public and private training datasets.
 
 | Name | Type of Tasks | # Samples | # Repos | Language(s) | Availability |
 | --- | --- | --- | --- | --- | --- |

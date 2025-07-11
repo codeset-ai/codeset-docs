@@ -1,6 +1,6 @@
-# Eval Datasets
+# Evaluation
 
-Evaluation datasets are used to benchmark and assess the performance of AI coding agents on specific tasks. They provide a standardized set of problems to measure an agent's ability to solve bugs, implement features, or perform other software engineering tasks.
+Evaluation datasets are used to benchmark and assess the performance of models on specific coding tasks. They provide a standardized set of problems to measure an agent's ability to solve bugs, implement features, or perform other software engineering tasks.
 
 | Name | Type of Tasks | # Samples | # Repos | Language(s) | Availability |
 | --- | --- | --- | --- | --- | --- |
