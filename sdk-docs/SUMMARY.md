@@ -13,8 +13,8 @@
 
 ## Supported Datasets
 
-* [Training](supported-datasets/training-datasets.md)
-* [Evaluation](supported-datasets/eval-datasets.md)
+* [Public Datasets](supported-datasets/public-datasets/README.md)
+* [Private Datasets](supported-datasets/private-datasets/README.md)
 
 ## Tutorials
 
