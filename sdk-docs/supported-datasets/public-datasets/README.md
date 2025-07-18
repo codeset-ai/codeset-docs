@@ -20,3 +20,4 @@ Evaluation datasets are used to benchmark and assess the performance of models o
 | --- | --- | --- | --- | --- | --- |
 | [GitBug-Java](https://github.com/gitbugactions/gitbug-java) | Bug-fixing | 199 | 55 | Java | <span style="color:grey;">Planned</span> |
 | [SWE-bench](https://github.com/SWE-bench/SWE-bench) | Bug-fixing, feature addition | 2,294 | 12 | Python | <span style="color:grey;">Planned</span> |
+| [Multi-SWE-bench](https://multi-swe-bench.github.io/) | Bug-fixing | 1,632 | 33 | Java, TypeScript, JavaScript, Go, Rust, C, and C++ | <span style="color:grey;">Planned</span> |
