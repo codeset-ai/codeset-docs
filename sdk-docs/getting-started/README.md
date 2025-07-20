@@ -22,10 +22,14 @@ The first step is to create a session. A session represents a sandboxed environm
 
 ```python
 from codeset import Codeset
+import os
 
-client = Codeset()
+client = Codeset(api_key=os.getenv("CODESET_API_KEY"))
 
-session = client.sessions.create(sample_id="traccar-traccar-95fdfd770130")
+session = client.sessions.create(
+    dataset="gitbug-java",
+    sample_id="traccar-traccar-95fdfd770130"
+)
 ```
 
 ## Step 3: Interact with the Session
