@@ -28,7 +28,7 @@ client = Codeset(api_key=os.getenv("CODESET_API_KEY"))
 
 session = client.sessions.create(
     dataset="gitbug-java",
-    sample_id="traccar-traccar-95fdfd770130"
+    sample_id="assertj-assertj-vavr-f4d7f276e87c"
 )
 ```
 
