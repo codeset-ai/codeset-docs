@@ -8,11 +8,15 @@ A session is initiated by making a request to the Codeset API with a specific `s
 
 ```python
 from codeset import Codeset
+import os
 
-client = Codeset()
+client = Codeset(api_key=os.getenv("CODESET_API_KEY"))
 
 # This sends a request to the Codeset API to create a new session
-session = client.sessions.create(sample_id="traccar-traccar-95fdfd770130")
+session = client.sessions.create(
+    dataset="gitbug-java",
+    sample_id="assertj-assertj-vavr-f4d7f276e87c"
+)
 
 print(f"Session created with ID: {session.session_id}")
 ```
